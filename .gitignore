@@ -10,6 +10,9 @@
 /test/version_tmp/
 /tmp/
 
+# macOS specific
+.DS_Store
+
 # Used by dotenv library to load environment variables.
 # .env
 
