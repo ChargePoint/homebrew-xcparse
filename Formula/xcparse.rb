@@ -1,7 +1,7 @@
 class Xcparse < Formula
   desc "Command-line extractor of screenshots/coverage from Xcode 11+ XCResult"
   homepage "https://github.com/ChargePoint/xcparse"
-  url "https://github.com/ChargePoint/xcparse.git", :tag => "0.5"
+  url "https://github.com/ChargePoint/xcparse.git", :tag => "0.6"
   head "https://github.com/ChargePoint/xcparse.git"
 
   depends_on :xcode => ["11.0", :build]
